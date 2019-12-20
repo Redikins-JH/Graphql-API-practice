@@ -4,3 +4,6 @@
  - react-apollo-express 기반
 
 
+2. Github Auth 연동
+
+
